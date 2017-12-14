@@ -9,7 +9,6 @@ import java.util.Arrays;
 
 /**
  *
- * @author JJSC
  */
 public class Ordenamientos {
 
