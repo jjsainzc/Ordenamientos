@@ -9,7 +9,7 @@ import java.util.Arrays;
 
 /**
  *
- * @author listaLIENWlistaRE
+ * @author JJSC
  */
 public class Ordenamientos {
 
